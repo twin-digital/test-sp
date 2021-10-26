@@ -3,7 +3,7 @@
   "facets": [
     {
       "path": "foo/bar",
-      "source": "bar",
+      "source": "foo",
       "type": "static-content"
     }
   ]
