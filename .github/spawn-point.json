@@ -1,4 +1,10 @@
 {
   "extends": [],
-  "facets": []
+  "facets": [
+    {
+      "path": "foo/bar",
+      "source": "foo",
+      "type": "static-content"
+    }
+  ]
 }
