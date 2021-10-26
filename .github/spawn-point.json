@@ -3,11 +3,6 @@
   "facets": [
     {
       "path": "foo/bar",
-      "source": "Lorem Ipusm",
-      "type": "static-content"
-    },
-    {
-      "path": "foo/bar",
       "source": "Dolor sit Amet",
       "type": "static-content"
     },
